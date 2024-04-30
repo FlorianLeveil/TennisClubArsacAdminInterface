@@ -6,9 +6,10 @@ Basé sur le template [Material-kit-react](https://github.com/devias-io/material
 
 - Make sure your Node.js and npm versions are up-to-date
 - Install dependencies: `npm install` or `yarn`
-- Start the server: `npm run dev` or `yarn dev`
 - Install pnpm `npm install -g pnpm`
+- Start the server: `npm run dev` or `yarn dev`
 - Open browser: `http://localhost:3000`
+
 
 ## File Structure
 
@@ -40,7 +41,8 @@ Within the download you'll find the following directories and files:
 		└── dashboard
 ```
 
-
+## Icon
+La librairie [phosphoricons](https://phosphoricons.com/) est utilisée
 
 ## Debug
 
